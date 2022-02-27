@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articles or demands made by the Kings most Excellent Majestie to the gentry and commonalty of the county of Salop, on Saturday the 8. of October. 1642. With an exact answer to every particular therein presented to His Majesty at Shrewesbury the same day, by the high sheriffe of the said county. Wherein is exactly manifested, how active the malignant party of this kingdome are to incense the King against the Parliament, and to engage him in a destructive warre against his subjects.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78663</idno>
+            <idno type="STC">Wing C2149</idno>
+            <idno type="STC">Thomason E121_40</idno>
+            <idno type="STC">ESTC R22185</idno>
+            <idno type="EEBO-CITATION">99871645</idno>
+            <idno type="PROQUEST">99871645</idno>
+            <idno type="VID">124057</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78663)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 124057)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 21:E121[40])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Articles or demands made by the Kings most Excellent Majestie to the gentry and commonalty of the county of Salop, on Saturday the 8. of October. 1642. With an exact answer to every particular therein presented to His Majesty at Shrewesbury the same day, by the high sheriffe of the said county. Wherein is exactly manifested, how active the malignant party of this kingdome are to incense the King against the Parliament, and to engage him in a destructive warre against his subjects.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Henry Hutton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Octob. 12. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A news pamphlet incorporating the texts of the king's proclamation and a reply from the citizens of Shropshire.</note>
+                  <note>With a title-page woodcut of the royal arms.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Salop (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:124057:1"/>
+            <pb facs="tcp:124057:1" rendition="simple:additions"/>
+            <p>ARTICLES or DEMANDS made By the KINGS moſt Excellent Majeſtie to the Gentry and Commonalty of the County of SALOP. on <hi>Saturday</hi> the 8. of <hi>October.</hi> 1642.</p>
+            <p>With an exact Anſwer to every particular therein preſented to His Majeſty at <hi>Shrewesbury</hi> the ſame day, by the high Sheriffe of the ſaid County.</p>
+            <p>Wherein is exactly manifeſted, How active the malignant party of this Kingdome are to incenſe the King againſt the Parliament, and to engage him in a deſtructive warre againſt his Subjects.</p>
+            <figure>
+               <head>C R</head>
+               <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+               <figDesc>English royal blazon, surmounted by a crown</figDesc>
+            </figure>
+            <p>LONDON, Printed for HENRY HYTTON, <hi>O<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ob.</hi> 12. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:124057:2"/>
+            <pb facs="tcp:124057:2"/>
+            <head>ARTICLES OR DEMANDS, Made by the Kings moſt Excel<g ref="char:EOLhyphen"/>lent Maieſty, to the Gentry and Commonalty of the County of <hi>Salop.</hi> on Saturdty, <hi>Oct.</hi> 8.</head>
+            <p>
+               <seg rend="decorInit">H</seg>Is Majeſty beeing at<g ref="char:EOLhyphen"/>tended by Mr. <hi>Murry, Endimion Porter</hi> and many other Courtiers came into a Cham<g ref="char:EOLhyphen"/>paine Field on the Eaſt ſide of our town where the Gentry and Commonalty of the County were aſſembled, by his Majeſties com<g ref="char:EOLhyphen"/>mand, where beeing come, and a generall ſilence throughout the Field, every one being with ex<g ref="char:EOLhyphen"/>pectation, longing to heare what they were ſum<g ref="char:EOLhyphen"/>moned thither for,</p>
+            <p>After a great and long preparation, <hi>Endimion Porter</hi> with a loud voyce, began to read theſe enſuing Articles, or Demands.</p>
+            <pb facs="tcp:124057:3"/>
+            <p> B<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t before he began, he diſtributed <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eere two hundred copies, by which meanes I get this which I have ſent you,</p>
+            <p n="1">1. That His Majeſty having ingaged himſelfe in a warre againſt the diſturbers of the Peace of the Kingdome, who under the name and authori<g ref="char:EOLhyphen"/>ty of a Parliament have to the advercement of their own particular ends actually leavied a war againſt him and all other his Loving ſubjects that diſſent from their Places, their only aimes being to alter the Frame of government both in the Church and State, and to introduce an arbitrary and tyrannicall government into this Kingdome, for the prevention of which His Majeſty having by the aſſiſtance of his good Proteſtant ſubjects raiſed an Army to ſuppreſſe the ſaid inſurrections Rebellion, in the mainte<g ref="char:EOLhyphen"/>nance of which Army his Majeſty hath ſpent, all that is in his power to command, either by his owne power, or the aſſiſtance of his friends, even to his Lands and goods, his Revenue being detained from him, and all meanes of further ſubſiſting denied him, wherefore he is inforced to Appeale to his loving Subjects and to deſire their ayd in this ſo great a deſigne, it ſeeming but a reaſonable demand that they that ſhare in the benefit ſhould likewiſe beare ſome of the burthen, his Majeſties deſire being to main<g ref="char:EOLhyphen"/>taine and defend the true Proteſtant Religion, the knowne Lawes of the Land, the juſt Privi<g ref="char:EOLhyphen"/>ledges of Parliament, and the lawfull Liberty of the Subject.</p>
+            <pb facs="tcp:124057:3"/>
+            <p> Likewiſe to ſuppreſſe Papiſtry, Sects and Schiſmer, which have lately crept into the Church, and almoſt buried the Religion and Peace of the Kingdome in <hi>Anare by</hi> and confu<g ref="char:EOLhyphen"/>ſion, <hi>Brouniſts, Seperatrſts,</hi> and <hi>Anabaptiſts,</hi> be<g ref="char:EOLhyphen"/>ing the onely Proteſtants, and the true Prote<g ref="char:EOLhyphen"/>ſtants in their opinion Church-papiſts, or fa<g ref="char:EOLhyphen"/>vourers of the Church of <hi>Rome,</hi> if the main<g ref="char:EOLhyphen"/>tainers of this cauſe can want aſſiſtance, if theſe ſort of People can prevaile more with you then your King, in the defence of ſo juſt a cauſe, then doubtleſſe our juſt God hath blinded your eyes, and in juſt vengance ſuffers you to runne hood<g ref="char:EOLhyphen"/>winckt to your owne confuſion, but his Maje<g ref="char:EOLhyphen"/>ſty hopes better things from you, not doubting of your aſſiſtance, onely this is to give the mea<g ref="char:EOLhyphen"/>neſt of his Subjects ſatisfaction, (who have all this while been miſled) of the iuſtneſſe of his proceedings, and to manifeſt unto you how neer your owne peace and the maintenance of this cauſe is allied, ſo that one cannot fall without the other, theſe things his Majeſty leaves to your conſideration till the afternoone, expect<g ref="char:EOLhyphen"/>ing a loyall returne of your Affections, aſſuring you in the Honour of a King, that the leaſt mite offered for the advancement of this cauſe, ſhall not fall to the ground, not be forgotten, but ſhall be regiſtred in his Maieſties princely and royall thoughts, as the greateſt token of loyal<g ref="char:EOLhyphen"/>ty, being expreſſed in a time of ſo great neceſ<g ref="char:EOLhyphen"/>ſity and trouble.</p>
+            <pb facs="tcp:124057:4"/>
+            <p> This being performed, his Majeſty was con<g ref="char:EOLhyphen"/>ducted out of the Field with ſhouts and accla<g ref="char:EOLhyphen"/>mations made by his owne followers, and ſome of the Ignorant country people, who were de<g ref="char:EOLhyphen"/>luded with the ſpecious pretence of Mr <hi>Porters,</hi> but one thing I obſerved by his Majeſty, (not<g ref="char:EOLhyphen"/>withſtanding thoſe ſhouts and prayers which were made by thoſe that followed him) his Majeſtie ſeemed mighty diſcontent, not ſhew<g ref="char:EOLhyphen"/>ing the leaſt ſymptome of joy, from whence I inferre, that what was done at that time, he was wonne to, by the perſwaſion of <hi>Porter</hi> and others about him, and not by any voluntary Act of his owne.</p>
+            <p>His Majeſty having left the field, our chiefe Gentlemen of the Countie, with our Free<g ref="char:EOLhyphen"/>holders and other men of eſteeme, met together at the <hi>George</hi> where after a generall and free de<g ref="char:EOLhyphen"/>bate, of what we had heard and obſerved, we with a generall conſent drew up this enſuing Anſwer.</p>
+            <p>
+               <hi>That whereas the Parliament now ſitting were called together by His Majeſty legally, and that every member of the ſame was choſen by the gene<g ref="char:EOLhyphen"/>rall conſent of each Countie of the Kingdome, be<g ref="char:EOLhyphen"/>ing men knowen to he Religious, Wiſe and well Reputed, and whereas their actions from the be<g ref="char:EOLhyphen"/>ginning to this day and (how ever cenſured by thoſe that ſeeke their deſtructions,) have tenned to the advancement of His Majeſties Honour the eſtabliſhment of the true Proteſtant Religion, with the Lawes of the Kingdome, which before the
+<pb facs="tcp:124057:4"/>beginning of this Parliament, were almoſt ruin'd.</hi> Biſhops <hi>having introduced Popery into the Church. The</hi> Iudges <hi>having corrupted the Lawes, neither can we forget the heavy taxes which we ſuffered by reaſon of Projectors and Monopolizers, the maine chiefeſt of which, are actors and contrivers of this warre, from whom we can expect no good neither to your Maieſty, nor our ſelves.</hi>
+            </p>
+            <p>And whereas your Majeſty hath been pleaſed to ſtile your Parliament Traytors, and that Ar<g ref="char:EOLhyphen"/>my which they have been forced to raiſe for the defence of your Majeſty, and to maintaine the Religion and Lawes of the Kingdome, a Rebel<g ref="char:EOLhyphen"/>lion, wee are forced to declare, that we are bound in conſcience to God, in loyalty to your Majeſty, and in tender care of our owne peace, to joyne with your Parliament, for the defence of your Majeſty, and maintenance of the afore<g ref="char:EOLhyphen"/>ſaid cauſes, with many others, (namely) to de<g ref="char:EOLhyphen"/>fend our Wives and daughters from rapine, our Houſes from Firing, and our Goods from be<g ref="char:EOLhyphen"/>ing made a prey to theeves and deſperate Cava<g ref="char:EOLhyphen"/>leers, which have deſtin'd all to ruin and deſtruc<g ref="char:EOLhyphen"/>tion.</p>
+            <p>As touching our aſſiſtance, If your Majeſty ſhall pleaſe to put your truſt in us, and to yeeld your ſelfe into the hands of ſuch a guard as wee ſhall rayſe, of the cheife Gentlemen and Free holders of our County, we will for your Roy<g ref="char:EOLhyphen"/>all ſupport, willingly expend our Eſtates, and venture our lives againſt all apparent Enemies of your Majeſties, but for us to weaken our ſelves to
+<pb facs="tcp:124057:5"/>ſtrengthen thoſe that would heereafter glory in our overthrow, neither Law not Reaſon can compell us, neither can we any way condiſcend to any ſuch matter.</p>
+            <p>Thus humbly beſeeching your Majeſty, in the name of Almighty God, as you tender the pre<g ref="char:EOLhyphen"/>ſervation of the true Religion, as you reſpect your owne ſafety, or the welfare of your Royall of spring, to abandon thoſe evill Councelours, and baniſh all Delinquents from your protec<g ref="char:EOLhyphen"/>tion, ſo ſhall your Majeſty be ſecure, and wee your loyall Subjects will guard you with ho<g ref="char:EOLhyphen"/>nour to your Parliament.</p>
+            <p>This beeing delivered to his Majeſty, every man went to his habitation, ſince which time we have heard nothing, onely many Gentlemen in Authority have been tempted by great pro<g ref="char:EOLhyphen"/>miſes to aſſiſt them, but all to no purpoſe.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:124057:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
